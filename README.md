@@ -1,6 +1,5 @@
 # -知识点总结
 
-1. git
 git clone + SSH
 
 git status 查看状态
